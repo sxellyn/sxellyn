@@ -1,4 +1,4 @@
-## Olá! Me chamo Suellyn! <3
+## Hi there! I'm Suellyn.
 [![Gmail Badge](https://img.shields.io/badge/-suellyngomes@live.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suellyngomes@live.com)](mailto:suellyngomes@live.com) [![Github Badge](https://img.shields.io/badge/-sxellyn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sxellyn/)](https://www.github.com/sxellyn/) <p align='left'>Estudante de ADS no Campus Recife - IFPE.
 Entusiasta de Python e amante de coisas fofas.</p>
 ## Some of my Github Stats
