@@ -1,8 +1,16 @@
-## Hi there! I'm Suellyn.
-[![Gmail Badge](https://img.shields.io/badge/-suellyngomes@live.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suellyngomes@live.com)](mailto:suellyngomes@live.com) [![Github Badge](https://img.shields.io/badge/-sxellyn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sxellyn/)](https://www.github.com/sxellyn/) <p align='left'>Estudante de ADS no Campus Recife - IFPE.
-Entusiasta de Python e amante de coisas fofas.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sxellyn alt=sxellyn /> </p>
+# HI THERE! o( ❛ᴗ❛ )o
+She/Her - Software Analysis and Development student at IFPE - Recife Campus
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sxellyn&show_icons=true&include_all_commits=true)](https://github.com/sxellyn/github-readme-stats)
+- 💁‍♀️ social：
+ 
+![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:suellyngomes@live.com)![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suellyn-gomes/)![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/sweetandsour#3862/)
+
+- 👩‍💻 use-tool/ide：
+ 
+![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![RSTUDIO](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+ 
+- 🌱 learning：
+ 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxellyn&layout=compact)](https://github.com/sxellyn/github-readme-stats)
