@@ -11,8 +11,8 @@ Software Analysis and Development student at IFPE - Recife Campus
   <img src="https://i.ibb.co/SyvwC1W/single.png" />
  </p>
  
-<p align="center">
-  Penelope ♡ Carlotinho ♡ Jojo ♡ Pepe ♡ Camila
+ <p align="center">
+readme is a w.i.p.
 </p>
 
 #### 🌿 social：
