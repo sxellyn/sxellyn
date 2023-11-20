@@ -12,7 +12,6 @@ Software Analysis and Development student at IFPE - Recife Campus
  </p>
  
  <p align="center">
-readme is a w.i.p.
 </p>
 
 #### 🌿 social：
