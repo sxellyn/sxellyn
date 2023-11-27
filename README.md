@@ -1,2 +1,14 @@
-  <div class="container">
-        <h1>Hi there, my name is Suellyn! <div class="hi">👋</div></h1>
+ <p align="center">
+  <img src="https://iili.io/Jx2lhSS.md.png" width=100%/>
+ </p>
+ 
+<div align="left">
+ TEXTO TEXTO
+   <p align="right">
+  <img src="https://iili.io/Jx2Wde2.png"/>
+ </p>
+ </div>
+
+ <p align="center">
+     <img src="https://iili.io/Jx2lXl2.md.png" width=100%/>
+ </p>
