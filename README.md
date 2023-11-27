@@ -4,7 +4,7 @@
  
 <div align="center">
  
-🙇‍♀️ Software Analysis and Development student at IFPE - Recife Campus
+Software Analysis and Development student at IFPE - Recife Campus
  
  <a style="margin-top: 1.5rem" href = "mailto:suellyngomes@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/suellyn-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://discordapp.com/users/sxellyn/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
