@@ -8,7 +8,7 @@
 Software Analysis and Development student at IFPE - Recife Campus
 
 <p align="center">
-  <img src="https://i.ibb.co/SyvwC1W/single.png" />
+  <img src="https://i.postimg.cc/HxZ3mzKz/cockatiels-removebg-preview.png" />
  </p>
  
  <p align="center">
