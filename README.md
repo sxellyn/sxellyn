@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/564198690861088778/1178782942189850634/HEAD.png" width=100%/>
+  <img src="https://i.postimg.cc/mr5NgsKg/2.png" width=100%/>
  </p>
  
 <div align="center">
@@ -20,5 +20,5 @@
  </div>
 
  <p align="center">
-     <img src="https://imgur.com/alTHa5y"width=100%/>
+ <img src="https://i.postimg.cc/2567Y6ct/1.png" width=100%/>
  </p>
