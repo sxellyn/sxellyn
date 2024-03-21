@@ -20,5 +20,5 @@
  </div>
 
  <p align="center">
-     <img src="https://cdn.discordapp.com/attachments/564198690861088778/1178782941824954408/bottom.png" width=100%/>
+     <img src="https://imgur.com/alTHa5y"width=100%/>
  </p>
