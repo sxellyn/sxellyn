@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://i.postimg.cc/mr5NgsKg/2.png" width=100%/>
+  <img src="https://i.postimg.cc/05Wx5HyH/2.png" width=100%/>
  </p>
  
 <div align="center">
@@ -20,5 +20,5 @@
  </div>
 
  <p align="center">
- <img src="https://i.postimg.cc/2567Y6ct/1.png" width=100%/>
+     <img src="https://i.postimg.cc/3NcHLWqH/1.png"width=100%/>
  </p>
