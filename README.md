@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://i.postimg.cc/Jhqv6Gyd/README-1.png" width=100%/>
+  <img src="https://i.postimg.cc/HkPBVXym/README-940-x-500-px-1.png" width=100%/>
  </p>
  
 <div align="center">
@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
  <p float="right">
-  <img src="https://cdn.discordapp.com/attachments/564198690861088778/1178785858938212483/birb.png" display=flex width=20% />
+  <img src="https://i.postimg.cc/jqwwbNsN/4qyc-by-tinaleigacleonlover-dga3i5n.gifv" display=flex width=20% />
  </p>
  
  </div>
