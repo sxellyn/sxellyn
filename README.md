@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://i.postimg.cc/HkPBVXym/README-940-x-500-px-1.png" width=100%/>
+  <img src="https://i.ibb.co/L7K380p/README-940-x-500-px-1.png" width=100%/>
  </p>
  
 <div align="center">
@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
  <p float="right">
-  <img src="https://i.postimg.cc/jqwwbNsN/4qyc-by-tinaleigacleonlover-dga3i5n.gifv" display=flex width=20% />
+  <img src="https://i.ibb.co/gbLVY9M0/4qyc-by-tinaleigacleonlover-dga3i5n.gif" display=flex width=20% />
  </p>
  
  </div>
